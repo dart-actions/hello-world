@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello World Dart
-        uses: dart-actions/hello-world@v0.0.1
+        uses: dart-actions/hello-world@v0.0.2
